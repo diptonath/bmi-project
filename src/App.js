@@ -6,7 +6,7 @@ import BMIApp from './BMIApp';
 function App() {
   return (
     <div className="App">
-      <BMIApp />
+      < BMIApp/>
     </div>
   );
 }
